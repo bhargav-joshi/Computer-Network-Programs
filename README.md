@@ -25,5 +25,4 @@
 
 ***10.	Use basic networking commands in Linux.pdf***
 
-***11.	Basic networking commands in Linux Added***
 
