@@ -26,3 +26,6 @@
 ***10.	Use basic networking commands in Linux.pdf***
 
 
+## Instructions
+
+For TCP UDP You need 2 terminals so you can use VSCode & Git Which works perfectly for me.
