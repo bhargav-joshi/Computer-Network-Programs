@@ -29,3 +29,6 @@
 ## Instructions
 
 For TCP UDP You need 2 terminals so you can use VSCode & Git Which works perfectly for me.
+
+In TCP & UDP socket programming we need to run the server java program from one terminal
+and from other terminal you need to run client program so you have to run this respectively. 
